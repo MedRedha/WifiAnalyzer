@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'WifiAnalyzer' target in the 'WifiAnalyzer' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
